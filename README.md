@@ -1,10 +1,12 @@
-Info
-School: Học Viện Hàng Không Việt Nam (VAA)
-Khoa: Công nghệ thông tin
-Đề tài: Xây dựng website bán bánh ngọt
-Nhóm : 02
-Thành viên:
-Nguyễn Thành Đạt
-Trà Tuấn Khải
-Diệp Minh Hiếu
-Phan Trung Hiếu
+# Info
+- School: Học Viện Hàng Không Việt Nam (VAA)
+- Khoa: Công nghệ thông tin 
+- Đề tài: Xây dựng website bán bánh online
+- Nhóm : 02
+- Thành viên:
+    - Nguyễn Đức Tâm 
+    - Trà Tuấn Khải 
+    - Nguyễn Thành Đạt
+    - Đào Quốc Anh
+    - Nguyễn Mạnh Quân 
+---
