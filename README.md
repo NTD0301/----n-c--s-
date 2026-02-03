@@ -4,9 +4,8 @@
 - Đề tài: Xây dựng website bán bánh online
 - Nhóm : 02
 - Thành viên:
-    - Nguyễn Đức Tâm 
-    - Trà Tuấn Khải 
     - Nguyễn Thành Đạt
-    - Đào Quốc Anh
-    - Nguyễn Mạnh Quân 
+    - Trà Tuấn Khải 
+    - Diệp Minh Hiếu
+    - Phan Trung Hiếu 
 ---
